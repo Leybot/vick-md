@@ -1,13 +1,13 @@
  Fork the repo
     <br>
-<a href="https://github.com/Rhodvick/vick-md/fork"><img title="VICK-MD-1.0" src="https://img.shields.io/badge/FORK VICK-MD-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Rhodvick/vick-md/fork"><img title="LEY-MD-1.0" src="https://img.shields.io/badge/FORK VICK-MD-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/KINAcH2snaT1PC3Az639ri">
-    <img alt=Support height="250" src="https://telegra.ph/file/25b60ba1474cffb21969c.jpg"> 
+    <img alt=Support height="250" src="https://telegra.ph/file/f6d554331cb8c6c0eeeff.jpg"> 
     </p>
       <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+VICK-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ RHODVICK TECH ;PUBLIC+RELESED+DATE;2024/04/18;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+LEY-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ XKY_LEY_3.0;PUBLIC+RELESED+DATE;2024/04/18;." alt="Typing SVG" /></a>
   </p>
   <p align="center"> 
   <a href="https://github.com/Rhodvick/vick-md/stargazers">
@@ -20,7 +20,7 @@
   # ```Tap Here For Help```  
   
   <p align="left">
-  <a href="https://wa.me/254700150919?text=Hello%20alex~tv%20...%20I%20need%20some%20help%20in%20%20mdvick">
+  <a href="https://wa.me/50931118037?text=Hello%20alex~tv%20...%20I%20need%20some%20help%20in%20%20mdvick">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   Tap here for contact me on WhatsApp Messenger 
   </p>
@@ -28,7 +28,7 @@
   <a href="My email: rhodvicktech@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   
-    My email Adress : rhodvicktech@gmail.com
+    My email Adress : lernsky43@gmail.com
      
   <div><br>
 </p>
@@ -100,7 +100,7 @@ mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Rhodvick/vick-md">
+    <a href="https://heroku.com/deploy?template=https://github.com/Leybot/vick-md">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -167,7 +167,7 @@ mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=
 </a>
 
 
- # VICK MD SUPPORT
+ # LEY MD SUPPORT
  
  <details close>
 <summary> JOIN OUR WHATSAPP GROUP
